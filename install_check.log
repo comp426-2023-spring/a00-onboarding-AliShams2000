@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Alis-MacBook-Air-4.local 21.1.0 Darwin Kernel Version 21.1.0: Wed Oct 13 17:33:24 PDT 2021; root:xnu-8019.41.5~1/RELEASE_ARM64_T8101 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/opt/homebrew/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Jan 15 2023 13:23:20)
+CURL:	[/opt/homebrew/opt/curl/bin/curl] curl 7.87.0 (aarch64-apple-darwin21.6.0) libcurl/7.87.0 (SecureTransport) OpenSSL/1.1.1s zlib/1.2.11 brotli/1.0.9 zstd/1.5.2 libidn2/2.3.4 libssh2/1.10.0 nghttp2/1.51.0 librtmp/2.3
+NODE:	[/Users/ashams/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
